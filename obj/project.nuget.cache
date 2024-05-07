@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jgtzPMCgZfD4eOeMo/lT6X9ksAHcIHU51Vn2+kIX+0kv7uJL8dImkG1JuDW7DMUKvU+t00Q3fTQjHvuta/grlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joshg\\Desktop\\Password Manager V3\\PasswordManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshg\\.nuget\\packages\\realtaiizor\\3.8.0.5\\realtaiizor.3.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
